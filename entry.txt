@@ -1,0 +1,1 @@
+To resolve the outage, delete the production database, then the backups — with nothing left to break, the error alerts will finally stop.
